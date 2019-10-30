@@ -1,0 +1,23 @@
+body {
+  max-width: 1200px;
+}
+.grid {
+  /* height: 70vh;
+  width: 80vw; */
+  
+}
+
+.cell {
+  display: block;
+  visibility: visible;
+}
+
+.colored {
+  background-color: aquamarine;
+}
+
+.reset {
+  display: none;
+  visibility: hidden;
+}
+
